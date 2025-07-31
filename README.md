@@ -1,16 +1,24 @@
-# centicab_mobile
+# CentiCab 🚕
 
-A new Flutter project.
+CentiCab is a mobile app prototype designed to address transportation issues in the Central African Republic by enabling passengers to request taxis and drivers to view ride requests.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- Passenger and Driver login
+- Ride request submission
+- Ride viewing (driver dashboard)
 
-A few resources to get you started if this is your first Flutter project:
+## 🔧 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK installed
+- Android Studio or VS Code
+- Firebase CLI (optional for full functionality)
+
+### Steps
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/centicab.git
+   cd centicab
